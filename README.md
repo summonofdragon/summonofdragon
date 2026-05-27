@@ -7,8 +7,8 @@ Is it possible for AI to "plan a movie" based on only short descriptions and cre
 
 ## Spaces I've Built
 
-- [AnimationwithMoods]([URL](https://huggingface.co/spaces/Silverwind101/AnimationwithMoods)) — First step to building my imagined generator. Focuses on mood, and outputs geometric shapes.
-- [MoodAnimation2]([URL](https://huggingface.co/spaces/Silverwind101/MoodAnimation2)) — Applied better version, deleted video function.
+- [AnimationwithMoods](https://huggingface.co/spaces/Silverwind101/AnimationwithMoods) — First step to building my imagined generator. Focuses on mood, and outputs geometric shapes.
+- [MoodAnimation2](https://huggingface.co/spaces/Silverwind101/MoodAnimation2) — Applied better version, deleted video function.
 - [Final-Space_Scene-Creator](https://huggingface.co/spaces/Silverwind101/Final-Space_Scene-Creator) — More fluent output, fixed some major bugs. Storyboaring works better. Connects story more fluently.
 
 
